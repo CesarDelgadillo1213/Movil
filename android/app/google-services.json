@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483571173321",
+    "project_id": "pedidosalaorden-bc075",
+    "storage_bucket": "pedidosalaorden-bc075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483571173321:android:4bb0295f2402feafd3ca18",
+        "android_client_info": {
+          "package_name": "com.example.pedidos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiqKffUesXRGCstR-_L5Yj-RKvvyMHzJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
